@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm a Software Developer and C++ Developer<br> Always improving and Learning New Technologies<br>
+ Software Developer and .NET Developer<br> Always improving and Learning New Technologies<br>
 
 
 ## 🌐 Socials:
